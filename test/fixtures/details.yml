@@ -1,0 +1,23 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  user_id: 1
+  headline: MyString
+  about_me: MyText
+  like_to_meet: MyText
+  interests: MyText
+  music: MyText
+  movies: MyText
+  television: MyText
+  books: MyText
+
+two:
+  user_id: 1
+  headline: MyString
+  about_me: MyText
+  like_to_meet: MyText
+  interests: MyText
+  music: MyText
+  movies: MyText
+  television: MyText
+  books: MyText
